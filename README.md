@@ -29,7 +29,7 @@ A aplicação possui:
 
 ## 🛠️ Tecnologias Utilizadas
 
-* Python 3.x
+* Python 3.14
 * CustomTkinter
 * Tkinter
 * Sistema de arquivos local (TXT)
@@ -41,7 +41,7 @@ A aplicação possui:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/todo-list-moderna.git
+git clone https://github.com/RickDavi28/To-do-List
 ```
 
 ### 2. Acesse a pasta do projeto
